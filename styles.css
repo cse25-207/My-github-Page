@@ -83,6 +83,9 @@ a:hover {
 
 } 
    
-
+main a[href^="mailto:"] { 
+   color: #ff5722;
+      font-weight: bold; 
+}
 
   
